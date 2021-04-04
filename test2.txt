@@ -1,2 +1,0 @@
-This is another test file.
-Here is a line in another file. 
